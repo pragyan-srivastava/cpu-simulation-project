@@ -24,7 +24,7 @@ Here's a sneak peek at the CPU's design from the inside:
 ![Circuit Diagram](Circuit.png)
 
 ### ALU Diagram
-![ALU Diagram](alu.png)
+![ALU Diagram](alu1.png)
 
 ### Components Diagram
 ![Components Diagram](components.png)

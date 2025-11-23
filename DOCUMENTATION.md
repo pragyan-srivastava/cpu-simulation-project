@@ -6,7 +6,7 @@ Welcome to the deep-dive documentation for our custom 16-bit CPU! This document 
 
 ## 🎯 CPU Overview and Mission
 
-This CPU was designed with a clear purpose: to be a learning tool and a demonstration of digital logic design using the **TkGate simulator**. Its primary mission is to calculate the **Sum of N Natural Numbers**.
+This CPU was designed with a clear purpose: to be a learning tool and a demonstration of digital logic design using the **TkGate simulator**. Its primary mission is to calculate the **Sum of N Natural Numbers** *(However It can be programmed to run any program as far as you follow the ISA)*
 
 It's a 16-bit RISC-like architecture featuring a simple, yet effective, instruction set. While not a commercial-grade processor, it's a powerful educational model that showcases the core concepts of computer architecture.
 

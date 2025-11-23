@@ -31,7 +31,7 @@ Here's a sneak peek at the CPU's design from the inside:
 
 ## ⚙️ How to Explore This Project
 
-1.  **Get TkGate:** You'll need to have the [TkGate simulator](http.www.tkgate.org/) installed on your system.
+1.  **Get TkGate:** You'll need to have the [TkGate simulator](https://sourceforge.net/projects/tkgate/) installed on your system.
 2.  **Open the Project:** Launch TkGate and open the `COA Lab Project Sum Till N.v` file.
 3.  **Run the Simulation:** Start the simulation and watch the CPU come to life!
 
